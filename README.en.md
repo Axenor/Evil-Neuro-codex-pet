@@ -6,7 +6,7 @@ Bring Evil Neuro to your Codex Mini desktop! Her chibi pixel-art design preserve
 
 The current package is **V1.1 / v1.1.0**, with **nine standard animation states, 57 standard animation frames, and sixteen look directions**, on a transparent background using **Codex sprite format v2**. This version strengthens the downward slump and recovery, makes the standing nod clearer, and revises gaze expression.
 
-Display name: **Evil Neuro**. Description: **Evil Neuro Model Pixel Character**.
+Display name: **Evil Neuro**. Description: **Evil Neuro V3 Model Pixel Character**.
 
 Created and shared by **[Axenor](https://github.com/Axenor)**.
 

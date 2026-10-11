@@ -26,7 +26,7 @@ function Get-BytesSha256 {
 }
 
 $expectedHashes = @{
-    'pet.json' = '799d2d35ddc67245de799a498d02bf08e06c8c4919f50fdf6c82dc9929d366e4'
+    'pet.json' = '1e254820096d3ee12c209c8f342413fb64df49ee75edd56f34fa460a14692d78'
     'spritesheet.webp' = 'b2dc8c336c500c843a708e52fc0c0e523724fcd1b2707578ca314597188830a1'
 }
 

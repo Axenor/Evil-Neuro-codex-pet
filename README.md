@@ -6,7 +6,7 @@
 
 当前成品版本为 **V1.1 / v1.1.0**，包含 **9 组标准动作、57 个标准动作帧和 16 个注视方向**，采用透明背景和 **Codex 图集格式 v2**。本版增强了失败动作的低头失落与恢复、点头动作的下点与回正，并修订注视表现。
 
-宠物显示名：**Evil Neuro**。介绍：**Evil Neuro Model Pixel Character**。
+宠物显示名：**Evil Neuro**。介绍：**Evil Neuro V3 Model Pixel Character**。
 
 制作与分享：**[Axenor](https://github.com/Axenor)**。
 
